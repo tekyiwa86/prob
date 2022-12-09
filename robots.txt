@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://marcom.kering.com/sitemap.xml
